@@ -1,0 +1,26 @@
+Example 1
+
+RepPatt
+Star 40 5 all-all
+
+Example 2
+
+ConPatt
+Circle 50 10 all
+Polygon 70 5 20 all
+
+Example 3
+
+Around
+circle 5 10 20 yellow - yellow
+circle 10 10 40 yellow - yellow
+circle 15 10 70 yellow - yellow
+circle 20 10 120 yellow - yellow
+circle 25 10 180 yellow - yellow
+
+Example 4
+
+Input:
+Random
+
+Please copy the input into userInput.txt!
